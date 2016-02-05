@@ -1,0 +1,34 @@
+.boxes {
+	width: 900px;
+	margin: 0 auto;
+	height: 900px;
+	background-color: #fff;
+}
+.red {
+	background-color: red;
+	height: 100px;
+	margin-bottom: 10px;
+}
+.float-left {
+	float: left;
+}
+.blue, .green, .yellow {
+	height: 680px;
+	width: 300px;
+}
+.bottomred {
+	background-color: red;
+	height: 100px;
+}
+.blue {
+	background-color: blue;
+}
+.green {
+	background-color: green;
+}
+.yellow {
+	background-color: yellow;
+}
+.columns {
+	margin-bottom: 10px;
+}
