@@ -1,0 +1,55 @@
+.container {
+	width: 900px;
+	margin: 0 auto;
+	height: 900px;
+	background-color: #fff;
+}
+.header {
+	background-color: red;
+	height: 100px;
+	margin-bottom: 10px;
+}
+.subcolumns {
+	background-color: #00BDf7;
+	width: 580px;
+	height: 660px;
+	float: left;
+	padding: 12.5px;
+}
+.sc1, .sc2, .sc3 {
+	float: left;
+	height: 310px;
+	width: 193.33px;
+}
+.sc2 {
+	background-color: #fe5000;
+}
+.column {
+	height: 685px;
+	float: right;
+	background-color: #fcff00;
+	width: 295px;
+}
+.sc1 {
+	background-color: #8f75be;
+}
+.sc3 {
+	background-color: #00c448;
+}
+.end {
+	clear:both;
+}
+.pink {
+	height: 340px;
+	width: 580px;
+	background-color: #ff86bf;
+	margin-top: 12.5px;
+}
+.footer {
+	background-color: red;
+	height: 100px;
+	margin-top: 10px;
+}
+.scbeast {
+	margin-bottom: 10px;
+}
